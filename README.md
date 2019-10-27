@@ -25,7 +25,7 @@ Title | Category | Speaker | Language
 | [Medusa, The Birth of the ICS](https://youtu.be/oHSf4rJR7Js) | Hacking | [Elías Grande](https://twitter.com/3grander) & [Jorge Nuñez](https://twitter.com/jnunezho) | English |
 | [Reversing workshop on Windows systems applied to CTFs (1/2)](https://youtu.be/9WZ5R2i5Udw) | Workshop | Mariano Palomo | English |
 | [Reversing workshop on Windows systems applied to CTFs (2/2)](https://youtu.be/j17gopZdLL0) | Workshop | Mariano Palomo | English |
-| [Holidays in Costa del SOC](https://youtu.be/f7TlfA77nFg) | Others | Marta López Pardal | English |
+| [Holidays in "Costa del SOC"](https://youtu.be/f7TlfA77nFg) | Others | Marta López Pardal | English |
 | [Impostors, Dunning-Krugers, rockstars and other strings ..](https://youtu.be/b3rTGoQVojU) | Philosophy and Ethics | Antonio Sanz | English |
 | [Kernel exploitation The eighth art?](https://youtu.be/X4m-uFRSwQ4) | Exploiting | [Jaime Peñalba](https://twitter.com/nighterman) | English |
 | [Reviving Homograph attacks using (deep learning) steroids](https://youtu.be/WWVGO7noos4) | Hacking | [Alfonso Muñoz](https://twitter.com/mindcrypt) | English |
@@ -43,3 +43,9 @@ Title | Category | Speaker | Language
 | [Zarancón City...](https://youtu.be/3S4hcSZn9ko) | Others | Jose A Alvarez & Guillermo Obispo & Miguel A Rodríguez | English |
 | [DevSecOps and the fall of Babylon...](https://youtu.be/23jTfxJRl7A) | Others | Daniel González & Helena Jalain | English |
 | [Diving in Windows 10. Extracting forensic artifacts...](https://youtu.be/QfH3XLlKFnQ) | Digital Forensics | [Mario Guerra]() | English |
+
+
+## [2018 Edition](https://www.youtube.com/watch?v=EvnRabNROeE&list=PLUOjNfYgonUtNVrCihUhvLek6dzQHM04B)
+
+** In progress **
+
