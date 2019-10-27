@@ -42,7 +42,7 @@ Talk Title | Category | Speaker | Language
 | [Technical considerations about the catalan referendum...](https://youtu.be/6EMxgAdnRuM) | Others | Tamara Álvarez & [Ricardo J. Rodríguez](https://twitter.com/RicardoJRdez) | English |
 | [Zarancón City...](https://youtu.be/3S4hcSZn9ko) | Others | Jose A Alvarez & Guillermo Obispo & Miguel A Rodríguez | English |
 | [DevSecOps and the fall of Babylon...](https://youtu.be/23jTfxJRl7A) | Others | Daniel González & Helena Jalain | English |
-| [Diving in Windows 10. Extracting forensic artifacts...](https://youtu.be/QfH3XLlKFnQ) | Digital Forensics | [Mario Guerra]() | English |
+| [Diving in Windows 10. Extracting forensic artifacts...](https://youtu.be/QfH3XLlKFnQ) | Digital Forensics | [Mario Guerra](https://twitter.com/MarioGuerraSoto) | English |
 
 
 ## [2018 Edition](https://www.youtube.com/watch?v=EvnRabNROeE&list=PLUOjNfYgonUtNVrCihUhvLek6dzQHM04B)
