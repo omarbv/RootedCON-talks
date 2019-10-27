@@ -7,7 +7,7 @@ Categorized list of [RootedCON](https://www.rootedcon.com) talks. RootedCON is a
 
 ## [2019 Edition](https://www.youtube.com/watch?v=p-B5Ji7hxDY&list=PLUOjNfYgonUtOMnisYyxpsthjBmIfgV6P)
 
-Title | Category | Speaker | Language
+Talk Title | Category | Speaker | Language
 --- | --- | --- | ---
 | [Next Station: Cybersecurity](https://youtu.be/BqS66wKuN3A)  | Critical Infrastructures | [Omar Benjumea](https://twitter.com/omarbenjumea) | English |
 | [M.E.A.T. - Make Enviroment Android Tools](https://youtu.be/p-B5Ji7hxDY) | Tools | [Paco Ramirez](https://twitter.com/pacoraml) | English |
