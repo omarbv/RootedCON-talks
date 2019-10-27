@@ -31,6 +31,15 @@ Title | Category | Speaker | Language
 | [Reviving Homograph attacks using (deep learning) steroids](https://youtu.be/WWVGO7noos4) | Hacking | [Alfonso Muñoz](https://twitter.com/mindcrypt) | English |
 | [IoP: The Internet of Planes/Hacking millionaires jet cabins](https://youtu.be/W-_CDOUObzc) | Hacking | [J. Daniel Martínez](https://twitter.com/dan1t0) | English |
 | [I know your P4$$w0rd (and if I don’t...)](https://youtu.be/TmmoSx05nkI) | Hacking | Pablo Caro & [Jaime Sánchez](https://twitter.com/segofensiva) | English |
-
-
-** In progress **
+| [Hardware Hacking and use of the tool...](https://youtu.be/SZvvUXwkdog) | Hardware Hacking | Ernesto Sanchez & Joel Serna | English |
+| [Security in 5G](https://youtu.be/SDzzR1JdK_A) | GSM | [David Pérez & José Picó](https://twitter.com/layakk) | English |
+| [Android's Download Provider: Discovering and exploiting ...]() | Android | [Daniel Kachakil](https://twitter.com/Kachakil) | English |
+| [Working in CyberSecurity: Truth & Lies behind the trincee](https://youtu.be/PrjhP3B_XMc) | Hacking | [Gianluca D'Antonio](https://twitter.com/infosecadvocate) | English |
+| [The Art of Persistence: "Mr. Windows… I don’t wanna go :("](https://youtu.be/J8aMjF78l48) | Malware | [Sheila Ayelen Berta](https://twitter.com/UnaPibaGeek) | English |
+| [IoCker - When IPv6 met malware](https://youtu.be/FPwtXiB4EGE) | Malware | [Rafa Sánchez & Fran Gomez](https://twitter.com/mrlooquer) | English |
+| [Cache and Syphilis](https://youtu.be/CxRv409y144) | Hacking | [Pepe Vila](https://twitter.com/cgvwzq) | English |
+| [Rootkit Busters ES](https://youtu.be/CUy9bJdnCnc) | Malware | [David Reguera](https://twitter.com/fr33project) & [Yago Jesus](https://twitter.com/YJesus) | English |
+| [Technical considerations about the catalan referendum...](https://youtu.be/6EMxgAdnRuM) | Others | Tamara Álvarez & [Ricardo J. Rodríguez](https://twitter.com/RicardoJRdez) | English |
+| [Zarancón City...](https://youtu.be/3S4hcSZn9ko) | Others | Jose A Alvarez & Guillermo Obispo & Miguel A Rodríguez | English |
+| [DevSecOps and the fall of Babylon...](https://youtu.be/23jTfxJRl7A) | Others | Daniel González & Helena Jalain | English |
+| [Diving in Windows 10. Extracting forensic artifacts...](https://youtu.be/QfH3XLlKFnQ) | Digital Forensics | [Mario Guerra]() | English |
