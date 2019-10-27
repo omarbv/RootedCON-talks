@@ -69,14 +69,14 @@ Title | Category | Speaker | Language
 
 ** In progress **
 
-## [2012 Edition]()
+## 2012 Edition
 
 ** In progress **
 
-## [2011 Edition]()
+## 2011 Edition
 
 ** In progress **
 
-## [2010 Edition]()
+## 2010 Edition
 
 ** In progress **
